@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api_video_juegos", "api_video_juegos\api_video_juegos.csproj", "{C0C91CE6-BE2F-45CB-BFB1-09D6B035C4C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web_video_juegos", "web_video_juegos\web_video_juegos.csproj", "{78F0D7E0-EBEB-4CFA-81A5-CBCFD730353F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C91CE6-BE2F-45CB-BFB1-09D6B035C4C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C91CE6-BE2F-45CB-BFB1-09D6B035C4C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C91CE6-BE2F-45CB-BFB1-09D6B035C4C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C91CE6-BE2F-45CB-BFB1-09D6B035C4C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F0D7E0-EBEB-4CFA-81A5-CBCFD730353F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F0D7E0-EBEB-4CFA-81A5-CBCFD730353F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F0D7E0-EBEB-4CFA-81A5-CBCFD730353F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F0D7E0-EBEB-4CFA-81A5-CBCFD730353F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867D5CFB-FB3C-40E2-82C5-00F24B73D694}
+	EndGlobalSection
+EndGlobal
